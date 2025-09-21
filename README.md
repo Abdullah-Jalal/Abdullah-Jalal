@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Jalal&style=for-the-badge) 
-  ![Followers](https://img.shields.io/github/followers/Abdullah-Jalal?style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=Abdullah-Jalal&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Abdullah-Jalal?style=for-the-badge" alt="Followers"/>
 </p>

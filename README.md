@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 2nd Semester Student @ Sir Syed University  
+- 🎓 3rd Semester Student @ Sir Syed University  
 - 💡 Exploring **AI, ML, Computer Vision, and OOP**  
 - 🔭 Currently working on: **YOLO object detection & Web Scraping**  
 - 🌱 Learning: **Advanced OOP in Java & Python**  

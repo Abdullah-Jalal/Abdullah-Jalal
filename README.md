@@ -32,13 +32,13 @@
 
 <!-- AI / ML / NLP -->
 
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-5A29E4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0A1AFF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-3A6EA5?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVM-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <!-- Data & CV -->
 
@@ -77,16 +77,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Jalal&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Jalal&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true" height="160em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Jalal&theme=radical&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Jalal&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---

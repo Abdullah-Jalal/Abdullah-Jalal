@@ -64,16 +64,10 @@
 
 ---
 
-## 📊 GitHub Activity Overview
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Abdullah-Jalal?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Abdullah-Jalal?label=Total%20Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/Abdullah-Jalal?label=Commits%20This%20Year&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Abdullah-Jalal.png" width="120" style="border-radius:50%"/>
+  <img src="https://raw.githubusercontent.com/Abdullah-Jalal/Abdullah-Jalal/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🌐 Connect With Me

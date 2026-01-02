@@ -64,15 +64,10 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="./assets/github-stats.svg" height="180em"/>
-  <img src="./assets/github-streak.svg" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="./assets/top-langs.svg" height="160em"/>
+  <img src="https://ghchart.rshah.org/Abdullah-Jalal" />
 </p>
 
 

@@ -64,22 +64,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdullah-Jalal&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://img.shields.io/github/followers/Abdullah-Jalal?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Abdullah-Jalal?label=Total%20Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/Abdullah-Jalal?label=Commits%20This%20Year&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github.com/Abdullah-Jalal.png" width="120" style="border-radius:50%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Jalal&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 

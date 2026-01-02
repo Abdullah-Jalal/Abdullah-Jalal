@@ -64,10 +64,10 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdullah-Jalal/Abdullah-Jalal/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/Abdullah-Jalal" alt="Abdullah Jalal GitHub Contribution Chart" />
 </p>
 
 ## 🌐 Connect With Me

@@ -64,10 +64,24 @@
 
 ---
 
-## 📊 GitHub Contribution Graph
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Abdullah-Jalal" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180em"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Jalal&theme=tokyonight&hide_border=true"
+    height="180em"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="160em"
+  />
 </p>
 
 

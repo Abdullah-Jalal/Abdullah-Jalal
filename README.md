@@ -67,27 +67,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Jalal&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
+  <img src="./assets/github-stats.svg" height="180em"/>
+  <img src="./assets/github-streak.svg" height="180em"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="160em"
-  />
+  <img src="./assets/top-langs.svg" height="160em"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-Jalal&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Abdullah-Jalal?style=for-the-badge"/>
-</p>
 
 ## 🌐 Connect With Me
 

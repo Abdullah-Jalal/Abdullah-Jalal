@@ -64,12 +64,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-—-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20NLP%20%7C%20CV-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Language-Python%20%7C%20Java-orange?style=for-the-badge"/>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180em"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Jalal&theme=tokyonight&hide_border=true"
+    height="180em"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="160em"
+  />
 </p>
 
 <p align="center">

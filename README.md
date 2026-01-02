@@ -64,10 +64,17 @@
 
 ---
 
-## 📊 Contribution Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Abdullah-Jalal" alt="Abdullah Jalal GitHub Contribution Chart" />
+  <img src="https://img.shields.io/badge/Public%20Repos-—-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20NLP%20%7C%20CV-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-Python%20%7C%20Java-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullah-Jalal&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Abdullah-Jalal?style=for-the-badge"/>
 </p>
 
 ## 🌐 Connect With Me

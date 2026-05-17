@@ -74,11 +74,12 @@
 
 ## 📂 Featured Projects
 
-- 🐦 Twitter Sentiment Analysis (NLP + ML Pipeline)
-- 🫀 Heart Disease Prediction System (ML Classification)
-- 🔍 YOLO Object Detection (Computer Vision + OpenCV)
-- ⚡ Web Scraping Automation Tool (Python + BeautifulSoup)
-- 🎥 YouTube Chatbot (RAG-based AI System using LangChain)
+🔐 OAuth2 Authentication System (Secure Login + Authorization | FastAPI/Auth Flow)
+🐦 Twitter Sentiment Analysis (NLP + ML Pipeline)
+🫀 Heart Disease Prediction System (ML Classification)
+🔍 YOLO Object Detection (Computer Vision + OpenCV)
+⚡ Web Scraping Automation Tool (Python + BeautifulSoup)
+🎥 YouTube Chatbot (RAG-based AI System using LangChain)
 
 ---
 

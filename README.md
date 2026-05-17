@@ -74,29 +74,113 @@
 
 ## 📂 Featured Projects
 
-🔐 OAuth2 Authentication System (Secure Login + Authorization | FastAPI/Auth Flow)
-🐦 Twitter Sentiment Analysis (NLP + ML Pipeline)
-🫀 Heart Disease Prediction System (ML Classification)
-🔍 YOLO Object Detection (Computer Vision + OpenCV)
-⚡ Web Scraping Automation Tool (Python + BeautifulSoup)
-🎥 YouTube Chatbot (RAG-based AI System using LangChain)
+🔐 **OAuth2 Authentication System**  
+Secure authentication & authorization system with token-based login flow for APIs.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 
 ---
 
+🐦 **Twitter Sentiment Analysis**  
+NLP pipeline that classifies sentiment from Twitter data using machine learning models.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TF--IDF-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+---
+
+🫀 **Heart Disease Prediction System**  
+ML model for early prediction of heart disease using clinical datasets.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Preprocessing-4B8BBE?style=for-the-badge"/>
+
+---
+
+🔍 **YOLO Object Detection System**  
+Real-time object detection system using deep learning and computer vision.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge"/>
+
+---
+
+⚡ **Web Scraping Automation Tool**  
+Automated system for extracting and processing live web data.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Requests-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+---
+
+🎥 **YouTube Chatbot (RAG System)**  
+AI chatbot that answers questions from YouTube videos using retrieval-augmented generation.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 ##📈 GitHub Stats 
 
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true" height="180em" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Jalal&theme=tokyonight&hide_border=true" height="180em" /> </p> <p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160em" /> </p>
-
-## 🌐 Connect With Me
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Jalal&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+</p>
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="160em"
+  />
+</p>
+
+<p align="center">
+  
   <a href="https://www.linkedin.com/in/abdullahbinjalal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:abdullahbinjalal@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Abdullah-Jalal">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge"/>
+
+  <a href="https://www.facebook.com/abdullah.jalal.507">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+
+  <a href="https://discord.com/channels/users/852935272181137449">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
 </p>

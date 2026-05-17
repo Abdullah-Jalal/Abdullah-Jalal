@@ -13,34 +13,60 @@
 
 - 🎓 4th Semester Software Engineering Student @ SSUET  
 - 💼 AI Intern @ Saylani Mass IT Training  
-- 💡 Focused on **AI, Machine Learning, NLP & Computer Vision**  
+- 💡 Focused on **AI, Machine Learning, Deep Learning, NLP & Computer Vision**  
 - 🐍 Strong command in **Python (Primary Language)**  
-- 🌱 Learning: Advanced ML, APIs, and AI system design  
-- ⚡ Passionate about building real-world AI solutions  
+- ⚙️ Building real-world AI systems using **GenAI, LLMs & RAG pipelines**  
+- 🌱 Learning: Advanced AI systems, MLOps, and scalable backend architectures  
+- ⚡ Passionate about solving real-world problems using AI  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
 
+<!-- Core Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+<!-- AI / ML -->
 <img src="https://img.shields.io/badge/Machine%20Learning-0A1AFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge"/>
 
+<!-- GenAI / LLM Stack -->
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-2F4F4F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge"/>
+
+<!-- ML Libraries -->
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+
+<!-- Data Science -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge"/>
+
+<!-- Backend / Deployment -->
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge"/>
+<!-- MLOps / DevOps -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Virtual%20Environments-4B8BBE?style=for-the-badge"/>
 
 </p>
 
@@ -48,11 +74,11 @@
 
 ## 📂 Featured Projects
 
-- 🐦 Twitter Sentiment Analysis (NLP + ML)
-- 🫀 Heart Disease Prediction System (ML)
-- 🔍 YOLO Object Detection (Computer Vision)
-- ⚡ Web Scraping Automation Tool (Python)
-- 🎥 YouTube Chatbot (RAG Concept System)
+- 🐦 Twitter Sentiment Analysis (NLP + ML Pipeline)
+- 🫀 Heart Disease Prediction System (ML Classification)
+- 🔍 YOLO Object Detection (Computer Vision + OpenCV)
+- ⚡ Web Scraping Automation Tool (Python + BeautifulSoup)
+- 🎥 YouTube Chatbot (RAG-based AI System using LangChain)
 
 ---
 

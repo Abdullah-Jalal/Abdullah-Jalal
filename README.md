@@ -5,14 +5,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdullah Jalal</h1>
-<h3 align="center">AI Intern @ Saylani | Python Developer | Software Engineering Student</h3>
+<h3 align="center">AI Engineer @ SaylaniTechLimited | Python Developer | Software Engineering Student</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 4th Semester Software Engineering Student @ SSUET  
-- 💼 AI Intern @ Saylani Mass IT Training  
+- 💼 AI Engineer @ SaylaniTechLimited 
 - 💡 Focused on **AI, Machine Learning, Deep Learning, NLP & Computer Vision**  
 - 🐍 Strong command in **Python (Primary Language)**  
 - ⚙️ Building real-world AI systems using **GenAI, LLMs & RAG pipelines**  

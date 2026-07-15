@@ -154,7 +154,9 @@ AI chatbot that answers questions from YouTube videos using retrieval-augmented 
 <p align="center">
   <img width="45%" src="https://github-readme-stats-pearl-tau-73.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS"/>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullah-Jalal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/abdullahbinjalal/">

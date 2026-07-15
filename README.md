@@ -144,25 +144,19 @@ AI chatbot that answers questions from YouTube videos using retrieval-augmented 
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-##📈 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Jalal&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=Abdullah-Jalal&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    height="160em"
-  />
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Jalal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">

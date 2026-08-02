@@ -147,7 +147,7 @@ AI chatbot that answers questions from YouTube videos using retrieval-augmented 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-pearl-tau-73.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats-pearl-tau-73.vercel.app/api?username=Abdullah-Jalal&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=Abdullah-Jalal&theme=tokyonight&hide_border=true"/>
 </p>
 

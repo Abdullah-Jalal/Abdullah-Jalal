@@ -157,7 +157,7 @@ AI chatbot that answers questions from YouTube videos using retrieval-augmented 
   <img src="https://komarev.com/ghpvc/?username=Abdullah-Jalal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-
+<p align="center">
   <a href="mailto:abdullahbinjalal@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -169,5 +169,4 @@ AI chatbot that answers questions from YouTube videos using retrieval-augmented 
   <a href="https://discord.com/channels/users/852935272181137449">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <p align="center">
 </p>

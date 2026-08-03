@@ -160,14 +160,17 @@ AI chatbot that answers questions from YouTube videos using retrieval-augmented 
 
   <a href="mailto:abdullahbinjalal@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <p align="center">
   </a>
 
   <a href="https://www.facebook.com/abdullah.jalal.507">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <p align="center">
   </a>
 
   <a href="https://discord.com/channels/users/852935272181137449">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <p align="center">
   </a>
 
 </p>
